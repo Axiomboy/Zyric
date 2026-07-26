@@ -6,5 +6,8 @@ This language is intended to have fast performance,and will be easy for first ti
 
 Technical Details:
 
+This uses write() instead of print(), which needs no parantheses or quotation marks.
+
+This would make it easier for beginners to learn.
 
 Thank you for reading this.
