@@ -1,6 +1,6 @@
 # Zyric
 A new coding language I am building from scratch. 
 Any help is appreciated, to help go to issues.
-This is intended to have a fast performance,and quick to learn.
+This language is intended to have fast performance,and will be quick for people to learn.
 
 Thank you for reading.
