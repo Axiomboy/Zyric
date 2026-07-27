@@ -1,4 +1,4 @@
-A new coding language I am building from scratch. 
+Zyric is a new coding language I am building from scratch. 
 
 This language is intended to have fast performance,and will be easy for first time coders to learn.
 
