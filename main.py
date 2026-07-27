@@ -1,5 +1,4 @@
-
-    write = print
+write = print
 
 User_Code = input("Hello. Version 0.0.1 can only use write(). You are able to code now ")
 
