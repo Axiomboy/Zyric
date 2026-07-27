@@ -15,6 +15,6 @@ To contribute, go to issues, and pick one.
 
 You may also make a pull request.
 
-Please do not recopy this for yout own repository.
+Please do not recopy this for your own repository.
 
 Thank you for reading this.
