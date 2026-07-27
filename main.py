@@ -1,10 +1,17 @@
 write = print
+input = user
 
-User_Code = input("Hello. Version 0.0.1 can only use write(). You are able to code now ")
+User_Code = user("Hello. Version 0.0.1 can only use write, and input. You are able to code now ")
 
-if User_Code[0:6] == " write":
-    write(User_Code [7:])
-else:
-    write("Nonexistent Function")
+if User_Code[0:5] == " echo":
+    write(User_Code [6:])
+elif User_Code[0:5] = " echo" and User_Code[6:] = User_Input:
+  print(User_Input) 
+elif User_Code[0:5] == " user":
+    user(User_Code) = User_Input
+    
+    
+
+
 
 
