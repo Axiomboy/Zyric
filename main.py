@@ -9,9 +9,6 @@ print("Hello. Version 0.0.3 can only use write and input. You are able to code n
 
 User_Input = None
 
-while True:
-    User_Code = input("Enter command: ").strip()
-
     if User_Code.startswith("echo"):
         command_text = User_Code[5:].strip()
         write(command_text)
